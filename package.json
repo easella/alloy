@@ -7,11 +7,11 @@
     "lib": "lib"
   },
   "dependencies": {
+    "jsdom": "^16.6.0",
     "ws": "^7.4.3"
   },
   "devDependencies": {},
   "scripts": {
-   
     "start": "node server.js"
   },
   "repository": {
